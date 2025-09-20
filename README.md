@@ -7,12 +7,39 @@
 
 * [Agentic AI and Agents](https://github.com/Marktechpost/AI-Notebooks?tab=readme-ov-file#agentic-ai-and-agents)
 * [MCPs Guides](https://github.com/Marktechpost/AI-Notebooks?tab=readme-ov-file#mcps-guides)
-* [LLMs and Other AI Section](https://github.com/Marktechpost/AI-Notebooks?tab=readme-ov-file#llms-and-other-ai-section)
+* [LLMs, ML and Other AI Section](https://github.com/Marktechpost/AI-Tutorial-Codes-Included?tab=readme-ov-file#llmsml-and-other-ai-section)
+* [Voice AI](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/README.md#voice-ai)
 
 ---
   
 
 ### Agentic AI and Agents
+
+▶ How to Build an Advanced End-to-End Voice AI Agent Using Hugging Face Pipelines? [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/AI%20Agents%20Codes/how_to_build_an_advanced_end_to_end_voice_ai_agent_using_hugging_face_pipelines.py) [Tutorial](https://www.marktechpost.com/2025/09/17/how-to-build-an-advanced-end-to-end-voice-ai-agent-using-hugging-face-pipelines/)
+
+▶ How to Build a Multilingual OCR AI Agent in Python with EasyOCR and OpenCV [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/AI%20Agents%20Codes/advanced_ocr_ai_agent_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/09/12/how-to-build-a-multilingual-ocr-ai-agent-in-python-with-easyocr-and-opencv/)
+
+▶ How to Build a Robust Advanced Neural AI Agent with Stable Training, Adaptive Learning, and Intelligent Decision-Making? [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/AI%20Agents%20Codes/advanced_neural_agent_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/09/13/how-to-build-a-robust-advanced-neural-ai-agent-with-stable-training-adaptive-learning-and-intelligent-decision-making/)
+
+▶ Building Advanced MCP (Model Context Protocol) Agents with Multi-Agent Coordination, Context Awareness, and Gemini Integration [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/AI%20Agents%20Codes/Building%20Advanced%20MCP%20Agents%20with%20Multi-Agent%20Coordination.ipynb) [Tutorial](https://www.marktechpost.com/2025/09/10/building-advanced-mcp-model-context-protocol-agents-with-multi-agent-coordination-context-awareness-and-gemini-integration/)
+
+▶ How to Build a Complete Multi-Domain AI Web Agent Using Notte and Gemini [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/AI%20Agents%20Codes/Build%20a%20Complete%20Multi-Domain%20AI%20Web%20Agent%20Using%20Notte%20and%20Gemini) [Tutorial](https://www.marktechpost.com/2025/09/08/how-to-build-a-complete-multi-domain-ai-web-agent-using-notte-and-gemini/)
+
+▶ How to Create a Bioinformatics AI Agent Using Biopython for DNA and Protein Analysis [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/AI%20Agents%20Codes/Bioinformatics%20AI%20Agent%20with%20Biopython) [Tutorial](https://www.marktechpost.com/2025/09/07/how-to-create-a-bioinformatics-ai-agent-using-biopython-for-dna-and-protein-analysis/)
+
+▶ Step-by-Step Guide to AI Agent Development Using Microsoft Agent-Lightning [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/AI%20Agents%20Codes/agent_lightning_prompt_optimization_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/08/31/step-by-step-guide-to-ai-agent-development-using-microsoft-agent-lightning/)
+
+▶ How to Build an Advanced AI Agent with Summarized Short-Term and Vector-Based Long-Term Memory [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/AI%20Agents%20Codes/Advanced%20AI%20Agent%20with%20Summarized%20Short%20Term%20and%20Vector-Based%20LongTerm%20Memory) [Tutorial](https://www.marktechpost.com/2025/09/02/how-to-build-an-advanced-ai-agent-with-summarized-short-term-and-vector-based-long-term-memory/)
+
+▶ How to Build a Conversational Research AI Agent with LangGraph: Step Replay and Time-Travel Checkpoints [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/AI%20Agents%20Codes/langgraph_time_travel_research_agent_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/08/31/how-to-build-a-conversational-research-ai-agent-with-langgraph-step-replay-and-time-travel-checkpoints/)
+
+▶ How to Build a Multi-Round Deep Research Agent with Gemini, DuckDuckGo API, and Automated Reporting? [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/AI%20Agents%20Codes/deep_research_agent_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/08/28/how-to-build-a-multi-round-deep-research-agent-with-gemini-duckduckgo-api-and-automated-reporting/)
+
+▶ A Coding Guide to Building a Brain-Inspired Hierarchical Reasoning AI Agent with Hugging Face Models [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/AI%20Agents%20Codes/hrm_braininspired_ai_agent_huggingface_marktechpost.py) [Tutorial](https://www.marktechpost.com/2025/08/30/a-coding-guide-to-building-a-brain-inspired-hierarchical-reasoning-ai-agent-with-hugging-face-models/)
+
+▶ A Full Code Implementation to Design a Graph-Structured AI Agent with Gemini for Task Planning, Retrieval, Computation, and Self-Critique [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/AI%20Agents%20Codes/graphagent_gemini_advanced_tutorial_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/08/23/a-full-code-implementation-to-design-a-graph-structured-ai-agent-with-gemini-for-task-planning-retrieval-computation-and-self-critique/)
+
+▶ Building a Reliable End-to-End Machine Learning Pipeline Using MLE-Agent and Ollama Locally [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/AI%20Agents%20Codes/mle_agent_ollama_local_pipeline_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/08/25/building-a-reliable-end-to-end-machine-learning-pipeline-using-mle-agent-and-ollama-locally/)
 
 ▶ An Implementation Guide to Build a Modular Conversational AI Agent with Pipecat and HuggingFace [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/pipecat_huggingface_implementation_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/08/13/an-implementation-guide-to-build-a-modular-conversational-ai-agent-with-pipecat-and-huggingface/)
 
@@ -90,6 +117,8 @@
 
 ### MCPs Guides 
 
+▶ Implementing OAuth 2.1 for MCP Servers with Scalekit: A Step-by-Step Coding Tutorial [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/tree/main/OAuth%202.1%20for%20MCP%20Servers) [Tutorial](https://www.marktechpost.com/2025/09/01/implementing-oauth-2-1-for-mcp-servers-with-scalekit-a-step-by-step-coding-tutorial/)
+
 ▶ Building an MCP-Powered AI Agent with Gemini and mcp-agent Framework: A Step-by-Step Implementation Guide [Notebook](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/mcp_gemini_agent_tutorial_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/08/17/building-an-mcp-powered-ai-agent-with-gemini-and-mcp-agent-framework-a-step-by-step-implementation-guide/)
 
 ▶ Creating Dashboards Using Vizro MCP: Vizro is an Open-Source Python Toolkit by McKinsey [Tutorial](https://www.marktechpost.com/2025/08/18/creating-dashboards-using-vizro-mcp-vizro-is-an-open-source-python-toolkit-by-mckinsey/)
@@ -102,7 +131,11 @@
 
 ---
 
-### LLMs and Other AI Section
+### LLMs,ML and Other AI Section
+
+▶ Building and Optimizing Intelligent Machine Learning Pipelines with TPOT for Complete Automation and Performance Enhancement [Notebook](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/ML%20Project%20Codes/tpot_advanced_pipeline_optimization_marktechpost.py) [Tutorial](https://www.marktechpost.com/2025/08/29/building-and-optimizing-intelligent-machine-learning-pipelines-with-tpot-for-complete-automation-and-performance-enhancement/)
+
+▶ A Coding Implementation to Build a Complete Self-Hosted LLM Workflow with Ollama, REST API, and Gradio Chat Interface [Notebook](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/self_hosted_llm_ollama_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/08/19/a-coding-implementation-to-build-a-complete-self-hosted-llm-workflow-with-ollama-rest-api-and-gradio-chat-interface/)
 
 ▶ How to Test an OpenAI Model Against Single-Turn Adversarial Attacks Using deepteam [Notebook](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Adversarial%20Attacks/Single-Turn%20Attacks.ipynb) [Tutorial](https://www.marktechpost.com/2025/08/17/how-to-test-an-openai-model-against-single-turn-adversarial-attacks-using-deepteam/)
 
@@ -133,3 +166,11 @@
 ▶ Step-by-Step Guide to Creating Synthetic Data Using the Synthetic Data Vault (SDV)  [Notebook](https://github.com/Marktechpost/AI-Notebooks/blob/main/AutoGen_TeamTool_RoundRobin_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/05/25/step-by-step-guide-to-creating-synthetic-data-using-the-synthetic-data-vault-sdv/)
 
 ▶ Creating a Knowledge Graph Using an LLM  [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/tree/main/Mirascope) [Tutorial](https://www.marktechpost.com/2025/07/28/creating-a-knowledge-graph-using-an-llm/)
+
+---
+
+### Voice AI
+
+▶ Building a Speech Enhancement and Automatic Speech Recognition (ASR) Pipeline in Python Using SpeechBrain  [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/guide_to_building_an_end_to_end_speech_enhancement_and_recognition_pipeline_with_speechbrain.py) [Tutorial](https://www.marktechpost.com/2025/09/09/building-a-speech-enhancement-and-automatic-speech-recognition-asr-pipeline-in-python-using-speechbrain/)
+
+▶ How to Build an Advanced End-to-End Voice AI Agent Using Hugging Face Pipelines? [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/AI%20Agents%20Codes/how_to_build_an_advanced_end_to_end_voice_ai_agent_using_hugging_face_pipelines.py) [Tutorial](https://www.marktechpost.com/2025/09/17/how-to-build-an-advanced-end-to-end-voice-ai-agent-using-hugging-face-pipelines/)
